@@ -7,6 +7,7 @@ recipe:
   servings: Makes a 2 layer 8in cake.
   prep: 30 minutes
   cook: 30 minutes
+  assembly & decoration: 45 minutes
   ingredients_markdown: >-
     For cake:
 
