@@ -44,14 +44,14 @@ recipe:
 ---
 
 
-Summer is upon us here in San Francisco, which means the weather is cloudy and dreary. However, fear not... It also means cherries are in season!
-
-&nbsp;
+Summer is upon us here in San Francisco, which means the weather is cloudy and dreary. However, fear not… It also means cherries are in season!![](/uploads/versions/dsc-0101---x----1504-1000x---.jpg)
 
 For this dessert, I wanted to try something with these seasonal fruits and add in some cheesiness. The cheese in this tart reminds me of a type of danish my grandmother used to make us. She would put raisins in the middle as a little surprise which I loved. A year or so ago my sister recreated the recipe and it was like a walk down memory lane. Maybe I'll try it out in the coming weeks and share it as well! :)&nbsp;
 
-Back to the fruit in this tart... Feel free to try this recipe out with different stone fruit. I think peaches, apricots, nectarines, or other stone fruit would do well in this recipe. The first version I tried of this recipe has a combination of apricots and cherries and was also delicious. Of course, a larger fruit would save you some time pitting!
+![](/uploads/versions/dsc-0120---x----1504-1000x---.jpg)
 
-Finally, the rosemary... while not required for this recipe, I think you'll find it makes for a beautiful addition to the flavor of the fruit, and a lovely fragrance in the kitchen.
+Back to the fruit in this tart… Feel free to try this recipe out with different stone fruit. I think peaches, apricots, nectarines, or other stone fruit would do well in this recipe. The first version I tried of this recipe has a combination of apricots and cherries and was also delicious. Of course, a larger fruit would save you some time pitting!
 
-&nbsp;
+![](/uploads/versions/dsc-0136---x----1344-1000x---.jpg)
+
+Finally, the rosemary… while not required for this recipe, I think you'll find it makes for a beautiful addition to the flavor of the fruit, and a lovely fragrance in the kitchen.
