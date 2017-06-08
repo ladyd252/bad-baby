@@ -1,7 +1,7 @@
 ---
 title: 'Cherry, Rosemary and Cream Cheese Tart'
 categories:
-date:
+date: 2017-06-07 20:41:41
 featured_image: /uploads/dsc-0148.jpg
 recipe:
   servings: '9'
