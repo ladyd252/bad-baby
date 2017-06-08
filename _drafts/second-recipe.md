@@ -2,7 +2,7 @@
 title: 'Cherry, Rosemary and Cream Cheese Tart'
 categories:
 date:
-featured_image:
+featured_image: /uploads/dsc-0148.jpg
 recipe:
   servings: '9'
   prep: 45 minutes
@@ -46,7 +46,7 @@ recipe:
 
 Summer is upon us here in San Francisco, which means the weather is cloudy and dreary. However, fear not… It also means cherries are in season!![](/uploads/versions/dsc-0101---x----1504-1000x---.jpg)
 
-For this dessert, I wanted to try something with these seasonal fruits and add in some cheesiness. The cheese in this tart reminds me of a type of danish my grandmother used to make us. She would put raisins in the middle as a little surprise which I loved. A year or so ago my sister recreated the recipe and it was like a walk down memory lane. Maybe I'll try it out in the coming weeks and share it as well! :)&nbsp;
+For this dessert, I wanted to try something with these seasonal fruits and add in some cheesiness. The cheese in this tart reminds me of a type of danish my grandmother used to make us. She would put raisins in the middle as a little surprise which I loved. A year or so ago my sister recreated the recipe and it was like a walk down memory lane. Maybe I'll try it out in the coming weeks and share it as well! :)
 
 ![](/uploads/versions/dsc-0120---x----1504-1000x---.jpg)
 
