@@ -33,7 +33,7 @@ recipe:
 
     * 2 large eggs
 
-    * 1/2 cup flavorless oil, like canola
+    * 1/2 cup canola/vegetable oil
 
     * 1 cup whole milk
 
