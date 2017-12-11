@@ -2,13 +2,13 @@
 title: Chocolate Dipped Orange Madeleines
 categories:
   - pastry
-date:
+date: 2017-12-07 00:00:00
 featured_image: /uploads/dsc-0191-1.jpg
 recipe:
   servings: 18-20 madeleines
-  prep:
-  cook:
-  assembly & decoration:
+  prep: 2.5 hours
+  cook: 25 minutes
+  assembly & decoration: 10 minutes
   ingredients_markdown: |-
     1 orange - juice and zest (about 1/2 cup juice, a bit less than 1/2 cup zest
 
@@ -89,5 +89,3 @@ So what are madeleines? While in my mind, all that's classified under that name 
 ![](/uploads/versions/dsc-0194---x----1504-1000x---.jpg)
 
 For my first attempt, I thought I'd try the classic combination of orange and dark chocolate. I think I'm rather pleased with the results, and while there's room for future iterations, I thought I'd share this recipe here. Hope you enjoy them!
-
-&nbsp;
