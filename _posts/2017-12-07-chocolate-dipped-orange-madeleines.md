@@ -9,32 +9,36 @@ recipe:
   prep: 2.5 hours
   cook: 25 minutes
   assembly & decoration: 10 minutes
-  ingredients_markdown: |-
-    1 orange - juice and zest (about 1/2 cup juice, a bit less than 1/2 cup zest
+  ingredients_markdown: >-
+    * 1 orange - juice and zest (about 1/2 cup juice, a bit less than 1/2 cup
+    zest
 
-    3 eggs
+    * 3 eggs
 
-    1/2 cup sugar
+    * 1/2 cup sugar
 
-    1 stick butter, melted, plus extra for pan
+    * 1 stick butter, melted, plus extra for pan
 
-    1/2 tsp vanilla
+    * 1/2 tsp vanilla
 
-    1/2 tsp baking powder
+    * 1/2 tsp baking powder
 
-    1 cup flour
+    * 1 cup flour
 
-    1/2 tsp coarse salt
+    * 1/2 tsp coarse salt
+
 
     &nbsp;
 
+
     For chocolate
 
-    1 cup bittersweet chocolate chips
 
-    1 tbsp olive oil
+    * 1 cup bittersweet chocolate chips
 
-    pinch of salt
+    * 1 tbsp olive oil
+
+    * pinch of salt
   directions_markdown: >-
     1. Reduce 1/2 cup fresh orange juice to about 1/2&nbsp;
 
