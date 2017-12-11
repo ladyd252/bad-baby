@@ -1,8 +1,9 @@
 ---
 title: Chocolate Dipped Orange Madeleines
 categories:
+  - pastry
 date:
-featured_image:
+featured_image: /uploads/dsc-0191-1.jpg
 recipe:
   servings: 18-20 madeleines
   prep:
@@ -82,8 +83,6 @@ recipe:
 
 
 I have long wanted to try my hand at baking madeleines, the soft, buttery, shell shaped pastries. Though our small San Francisco kitchen doesn't have much room left for any new equipment, I finally convinced myself it was time to get a pan.
-
-![](/uploads/versions/dsc-0191---x----1504-1000x---.jpg)
 
 So what are madeleines? While in my mind, all that's classified under that name is "delicious", I thought I'd do a bit more research. There are different stories for how these little cookies were first invented, but at there core they are actually mini cakes (I have definitely mistakenly referred to them as soft cookies before) made with Genoise batter, or in other words batter where eggs and sugar are beat together until they form a batter thick enough to fall in ribbons off the whisk. In madeleines, melted butter is also added to the batter.
 
