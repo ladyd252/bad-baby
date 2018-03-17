@@ -1,6 +1,10 @@
 ---
 title: Dad's Coffee and Chocolate Cheesecake
 categories:
+  - cake
+  - Cheesecake
+  - chocolate
+  - Coffee
 date: 2018-03-17 13:00:00
 featured_image: /uploads/dsc-0300.jpg
 recipe:
@@ -95,7 +99,7 @@ recipe:
     enjoy!
 ---
 
-It was my dad's birthday a week ago and I thought it was a good opportunity to make him something with two things he loves: coffee and chocolate!&nbsp;
+It was my dad's birthday a week ago and I thought it was a good opportunity to make him something with two things he loves: coffee and chocolate!
 
 This cheesecake has a delicate coffee flavor, punctuated by a chocolatey crust and a rich ganache topping. I think it looks pretty festive, and you can make it your own by doing different pipings, using whole or crushed cookies instead of chocolate covered coffee beans, drizzling ganache instead of spreading on top, etc.
 
@@ -104,5 +108,3 @@ This cheesecake has a delicate coffee flavor, punctuated by a chocolatey crust a
 My dad definitely enjoyed it, and I think you might too!
 
 I adapted the recipe found [here](https://www.purewow.com/recipes/Chocolate-Glazed-Espresso-Cheesecake).
-
-&nbsp;
