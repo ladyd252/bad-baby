@@ -43,7 +43,7 @@ layout: default
 		<p>This one of the many fanastic recipes available on this blog</p>
 		<div class="button"><a href="/recipes">Check out more recipes</a></div>
 	</div>
-	{% if site.disqus_shortname and page.comments %}
+	{% if site.disqus_shortname %}
         <div id="disqus_thread"></div>
         <script>
           var disqus_shortname = '{{ site.disqus_shortname }}';
