@@ -99,7 +99,7 @@ recipe:
     enjoy!
 ---
 
-It was my dad's birthday a week ago and I thought it was a good opportunity to make him something with two things he loves: coffee and chocolate!
+It's been a minute since my last post! Well, we're back today with a new recipe. It was my dad's birthday a week ago and I thought it was a good opportunity to make him something with two things he loves: coffee and chocolate!
 
 This cheesecake has a delicate coffee flavor, punctuated by a chocolatey crust and a rich ganache topping. I think it looks pretty festive, and you can make it your own by doing different pipings, using whole or crushed cookies instead of chocolate covered coffee beans, drizzling ganache instead of spreading on top, etc.
 
