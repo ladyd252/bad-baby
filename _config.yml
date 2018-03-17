@@ -6,7 +6,7 @@ url: "badbabybakery.com"
 baseurl:
 google_analytics_key: "UA-100972209-1"
 newsletter_action: "//badbabybakery.us16.list-manage.com/subscribe/post?u=c372db4bd5e106da063969984&amp;id=2ef8216c66"
-disqus_shortname: bad-baby-bakery.disqus.com/admin/
+disqus_shortname: bad-baby-bakery
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
