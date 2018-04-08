@@ -95,11 +95,11 @@ recipe:
 
 So Pi Day came around a few weeks ago, and this blog post was conceived then. There's nothing&nbsp;**rational**&nbsp;about how gooooood this pie is! (See what I did there?!)
 
-![](/uploads/dsc-0345.jpg)
+![](/uploads/dsc-0338.jpg)
 
 So I had been wanting to make something with pears since they're in season, and the blueberries offered a bit of pectin to help the pie come together, as well as a nice color.
 
-&nbsp;
+![](/uploads/dsc-0316.jpg)
 
 The ingredients ended up making a bit more than one pie dish, so I rummaged and found these little individual muffin tins which became mini pie tins for this adventure. They came out SO FRIGGIN CUTE. I think I'll have to do a follow up recipe dedicated to mini pies one day because I was so into them.
 
