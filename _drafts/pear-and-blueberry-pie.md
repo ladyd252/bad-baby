@@ -1,8 +1,9 @@
 ---
 title: Pear and Blueberry Pie (and two minis!)
 categories:
+  - Pie
 date: 2018-04-07 00:00:00
-featured_image:
+featured_image: /uploads/dsc-0345-1.jpg
 recipe:
   servings: 8-10
   prep: 1 hour
@@ -93,7 +94,7 @@ recipe:
     :)&nbsp;
 ---
 
-So Pi Day came around a few weeks ago, and this blog post was conceived then. There's nothing&nbsp;**rational**&nbsp;about how gooooood this pie is! (See what I did there?!)
+So Pi Day came around a few weeks ago, and this blog post was conceived then. There's nothing **rational** about how gooooood this pie is! (See what I did there?!)
 
 ![](/uploads/dsc-0338.jpg)
 
