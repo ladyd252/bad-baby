@@ -13,6 +13,11 @@ Customize these however you like.
 .imgPinWrap {
 	position: relative;
 	display: inline-block;
+	width: 100%;
+	
+	img {
+        widthL 100%;
+	}
 }
 
 .imgPinWrap .pin {
