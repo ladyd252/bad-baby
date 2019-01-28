@@ -1,9 +1,13 @@
 ---
 title: Nutella Grapefruit Krantz
 categories:
-  - Pie
-date: 2018-04-07 00:00:00
-featured_image:
+  - Yeast Cakes
+  - cake
+  - chocolate
+  - nutella
+  - citrus
+date: 2019-01-27 00:00:00
+featured_image: /uploads/dsc-0005.jpg
 recipe:
   servings: '2 loaves, 10-12 slices each'
   prep: 12 hours
@@ -102,7 +106,7 @@ recipe:
     &nbsp;
 ---
 
-One of my favorite things about visiting Israel (other than seeing my family, duh) is visiting all the bakeries. It is truly a no carb left behind situation. What I think is particularly unique about Israeli baked goods is what would locally be called "yeast cakes", or what is often referred to as Krantz or Babka cakes stateside. I recently got interested in the differences and origins of both, and found [this article](https://food52.com/blog/18792-the-babka-you-ve-seen-everywhere-isn-t-really-babka-after-all){: target="_blank"} illuminating if you too find yourself curious! The gist is babka was originally made with leftover challah dough that got transformed into a somewhat dry and (in today's standards) lackluster dessert. Krantz however also incorporates butter and syrup to make an all around sweeter, shinier, more exciting final product. Since, the lines have been blurred and many people now refer to them interchangeably.&nbsp;
+One of my favorite things about visiting Israel (other than seeing my family, duh) is visiting all the bakeries. It is truly a no carb left behind situation. What I think is particularly unique about Israeli baked goods is what would locally be called "yeast cakes", or what is often referred to as Krantz or Babka cakes stateside. I recently got interested in the differences and origins of both, and found [this article](https://food52.com/blog/18792-the-babka-you-ve-seen-everywhere-isn-t-really-babka-after-all){: target="_blank"} illuminating if you too find yourself curious! The gist is babka was originally made with leftover challah dough that got transformed into a somewhat dry and (in today's standards) lackluster dessert. Krantz however also incorporates butter and syrup to make an all around sweeter, shinier, more exciting final product. Since, the lines have been blurred and many people now refer to them interchangeably. 
 
 ![](/uploads/dsc-0005.jpg)
 
@@ -112,6 +116,4 @@ This particular recipe is based off of Yotam Ottolenghi's chocolate krantz cake 
 
 Take care to notice this recipe requires a bit of planning - it is meant to rest refrigerated for at least half a day, and Ottolenghi suggests letting it rest overnight. I myself changed up the filling and syrup to suit my preferences from the original recipe, and you too can play around with fillings you like - crushed nuts, different types of chocolate, etc.
 
-I hope you enjoy it, I sure did!&nbsp;
-
-&nbsp;
+I hope you enjoy it, I sure did!
