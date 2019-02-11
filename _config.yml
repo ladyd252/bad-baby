@@ -9,10 +9,10 @@ newsletter_action: "//badbabybakery.us16.list-manage.com/subscribe/post?u=c372db
 disqus_shortname: bad-baby-bakery
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Baking Blog
+logo: images/logo.svg
+description: Bad Baby Bakery Blog
 author:
-  name:
+  name: Dana Yakoobinsky
   email: dana@badbabybakery.com
   twitter: # twitter username without the @ symbol
 social:
@@ -27,8 +27,7 @@ paginate_path: "/:num/"
 permalink: "/:title/"
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -36,13 +35,11 @@ defaults:
       push_sidebar_down: true
       print_stylesheet: true
       comments: true
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: "index.html"
     values:
       layout: "default"
