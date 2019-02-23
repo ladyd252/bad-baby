@@ -92,8 +92,9 @@ recipe:
     6. Fill cupcake liners with batter to \*\*\*no more than half, or a smidge
     less\*\*\*.&nbsp;
 
-    7. Bake for 8-10minutes, until toothpick inserted into middle of cupcake
-    comes out clean.
+    7. For mini cupcakes, bake for 8-10minutes, until toothpick inserted into
+    middle of cupcake comes out clean. For full size, bake 18-22 minutes and
+    check with a toothpick as well.
 
     8. Let cool completely.
 
