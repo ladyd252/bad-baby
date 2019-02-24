@@ -11,7 +11,7 @@ recipe:
   cook: 12 minutes
   assembly & decoration: 30 minutes
   ingredients_markdown: >-
-    Chocolate Cupcakes
+    **Chocolate Cupcakes**
 
 
     * 1 cup sugar
@@ -39,7 +39,7 @@ recipe:
     * 50g dark chocolate, melted
 
 
-    Cookies and cream frosting:
+    **Cookies and cream frosting:**
 
 
     * 1/2 box of your favorite girl scout cookies (I split my frosting in two
@@ -59,7 +59,7 @@ recipe:
     * 2 tsp vanilla extract
 
 
-    For decorating:
+    **For decorating:**
 
 
     * 50-100g extra dark chocolate, melted
@@ -67,7 +67,7 @@ recipe:
     * extra girl scout cookies
 
 
-    Special equipment:
+    **Special equipment:**
 
 
     * Candy thermometer
