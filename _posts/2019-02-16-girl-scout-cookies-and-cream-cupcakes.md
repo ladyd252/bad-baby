@@ -45,10 +45,14 @@ recipe:
     * 1/2 box of your favorite girl scout cookies (I split my frosting in two
     and then mixed in both Thin Mints and Samoas) , crushed or chopped very
     finely.
+    
     *150 grams egg whites (from about 5 eggs)
+    
     * 1 1/4 cups (250 grams) sugar
+    
     * 3 sticks (340 grams) salted (or unsalted + 1/4 tsp salt) butter, at \*room
     temperature\*
+    
     * 2 tsp vanilla extract
 
     **For decorating:**
