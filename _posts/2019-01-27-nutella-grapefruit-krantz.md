@@ -10,12 +10,12 @@ date: 2019-01-27 00:00:00
 featured_image: /uploads/dsc-0005.jpg
 image: /uploads/dsc-0030.jpg
 recipe:
-  servings: "2 loaves, 10-12 slices each"
+  servings: '2 loaves, 10-12 slices each'
   prep: 12 hours
   cook: 30 minutes
   assembly & decoration: 10 minutes
   ingredients_markdown: |-
-    For the dough:
+    **For the dough:**
 
     * 4 1/2 cup flour
     * 3/4 cup sugar (regular white)
@@ -27,19 +27,19 @@ recipe:
     * 2/3 cup butter (150g) in room temp, cut into cubes
     * Vegetable oil for greasing
 
-    The filling:
+    **The filling:**
 
     * 1 cup Nutella&nbsp;
     * 1/2 cup melted butter
 
-    Syrup
+    **Syrup**
 
     * Juice of a grapefruit (at least 2/3 cup
     * 1 1/4 cup sugar
 
     &nbsp;
   directions_markdown: >-
-    Making the dough:
+    **Making the dough:**
 
 
     1. Mix together all dry ingredients **except&nbsp;**salt in a stand mixer
@@ -56,7 +56,7 @@ recipe:
     leave in fridge for half a day/overnight.
 
 
-    ~10 hours later
+    **~10 hours later**
 
 
     1. Brush two loaf pans (~9x5) with oil and line with wax paper
@@ -107,7 +107,7 @@ recipe:
     &nbsp;
 ---
 
-One of my favorite things about visiting Israel is visiting all the bakeries. It is truly a no carb left behind situation. What I think is particularly unique about Israeli baked goods is what would locally be called "yeast cakes", or what is often referred to as Krantz or Babka cakes stateside. I recently got interested in the differences and origins of both, and found [this article](https://food52.com/blog/18792-the-babka-you-ve-seen-everywhere-isn-t-really-babka-after-all){: target="\_blank"} illuminating if you too find yourself curious! The gist is babka was originally made with leftover challah dough that got transformed into a somewhat dry and (in today's standards) lackluster dessert. Krantz however also incorporates butter and syrup to make an all around sweeter, shinier, more exciting final product. Since, the lines have been blurred and many people now refer to them interchangeably.&nbsp;
+One of my favorite things about visiting Israel is visiting all the bakeries. It is truly a no carb left behind situation. What I think is particularly unique about Israeli baked goods is what would locally be called "yeast cakes", or what is often referred to as Krantz or Babka cakes stateside. I recently got interested in the differences and origins of both, and found [this article](https://food52.com/blog/18792-the-babka-you-ve-seen-everywhere-isn-t-really-babka-after-all){: target="\_blank"} illuminating if you too find yourself curious! The gist is babka was originally made with leftover challah dough that got transformed into a somewhat dry and (in today's standards) lackluster dessert. Krantz however also incorporates butter and syrup to make an all around sweeter, shinier, more exciting final product. Since, the lines have been blurred and many people now refer to them interchangeably. 
 
 This particular recipe is based off of Yotam Ottolenghi's chocolate krantz cake recipe. I recently decided I should let my baking follow my taste buds and take a stab at the famed "yeast cake". I think it was well worth it, and I think you might too!
 
