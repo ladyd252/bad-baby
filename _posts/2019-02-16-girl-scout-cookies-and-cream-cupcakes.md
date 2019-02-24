@@ -71,7 +71,7 @@ recipe:
 
     * Double boiler/metal bowl + sauce pan
   directions_markdown: >-
-    For the cupcake:
+    **For the cupcake:**
 
 
     1. Preheat oven to 375F (or 350F for convection oven) and line a
@@ -96,7 +96,7 @@ recipe:
     8. Let cool completely.
 
 
-    For frosting:
+    **For frosting:**
 
 
     1. In a metal, heat proof bowl (I use the bowl of my stand mixer), whisk
@@ -126,7 +126,7 @@ recipe:
     little cupcake.
 
 
-    For decorating:
+    **For decorating:**
 
 
     1. Using a fork, drizzle melted chocolate over top of frosting. Make sure
