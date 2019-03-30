@@ -89,12 +89,12 @@ recipe:
     9. Let cool completely, dust with powdered sugar, and enjoy!
 ---
 
-So Purim came around a little over a week ago, and this year I tried my hand at making hamantaschen for the first time! There seems to be a few stories around where these little guys came from, but the one I grew up with is that they symbolize the cut off ears of the evil Haman who tried to destroy the Jewish people. And if severed body parts don't get your sweet tooth going... Maybe you can focus on how buttery and delicious these are, instead!
+So Purim came around a little over a week ago, and this year I tried my hand at making hamantaschen for the first time! There seems to be a few stories around where these little guys came from, but the one I grew up with is that they symbolize the cut off ears of the evil Haman who tried to destroy the Jewish people. And if severed body parts don't get your sweet tooth going… Maybe you can focus on how buttery and delicious these are, instead!
 
 ![](/uploads/dsc-0351.jpg)
 
-I based this recipe off of Carine Goren's favorite hamantaschen recipe. She uses poppy seeds in her but I opted for a blueberry lime jam instead. I also swapped the lemon zest in her dough for lime.
+I based this recipe off of Carine Goren's favorite hamantaschen recipe. She uses poppy seeds in hers but I opted for a blueberry lime jam instead. I also swapped the lemon zest in her dough for lime.
 
 ![](/uploads/dsc-0333.jpg)
 
-Overall I was really happy with the flavor and texture of these, but to be honest my first batch spread out in the oven and created what some call a "jam volcano". On second try I squeezed the sides extremely firmly, until they basically melded together, and they stayed together pretty well. I might try a recipe with a dough that holds a bit more structure next year and compare. Anywho, the compromised structure didn't stop these from getting devoured!
+Overall I was really happy with the flavor and texture of these, but to be honest my first batch spread out in the oven and created what some may call a "jam volcano". On second try I squeezed the sides extremely firmly, until they basically melded together, and they stayed together pretty well. I might try a recipe with a dough that holds a bit more structure next year and compare. Anywho, the compromised structure didn't stop these from getting devoured!
