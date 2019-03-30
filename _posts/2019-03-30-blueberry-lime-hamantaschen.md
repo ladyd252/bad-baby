@@ -13,15 +13,10 @@ recipe:
     **For the Dough**
 
     * 3/4 cup sugar
-
     * 200g butter
-
     * 2 cups flour
-
     * 2 egg yolks
-
     * zest from a lime
-
     * pinch of salt
 
     **For the filling**
