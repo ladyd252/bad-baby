@@ -52,7 +52,7 @@ recipe:
     minutes on medium speed until dough is elastic and shiny, pausing to scrape
     down and flour sides to prevent dough sticking.
 
-    4. Place dough in a bowl brushed with oil, cover with plastic wrap, and
+    4. Place dough in a bowl brushed with oil, cover with plastic wrap. Let rise in room temperature for 1-2 hours. Then
     leave in fridge for half a day/overnight.
 
 
