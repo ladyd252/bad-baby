@@ -21,8 +21,6 @@ recipe:
 
     **For the filling**
 
-    &nbsp;
-
     * 12 oz blueberries
     * juice from one lime
     * 1 tbsp sugar (more or less to taste)
