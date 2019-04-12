@@ -68,7 +68,7 @@ recipe:
     cheesecakes, and top with berries.
 ---
 
-So this past weekend Mike and I had a bunch of friends over for a special event: Mike did a "mini concert" of Bob Dylan covers, and I made a whole bunch of mini desserts\! We called it "Dylan and Desserts", because alliteration.&nbsp;
+So this past weekend Mike and I had a bunch of friends over for a special event: Mike did a "mini concert" of Bob Dylan covers, and I made a whole bunch of mini desserts\! We also used the event to raise money for an org we care about - the National Suicide Prevention Lifeline ([https://suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/)). It was a nice way to have a fun evening with friends and also feel good about it\! We decided to call it "Dylan and Desserts", because alliteration.
 
 One of said desserts was this mini matcha cheesecake. How cute is that???&nbsp;
 
@@ -79,5 +79,3 @@ This recipe makes quite a few of these little ones. I also always get into quite
 One final note: you can also make these in regular cupcake size, and I think you could pretty easily cut the recipe in half if you wanted to make less.
 
 Hope you enjoy these\!
-
-&nbsp;
