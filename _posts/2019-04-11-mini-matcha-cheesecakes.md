@@ -64,7 +64,7 @@ So this past weekend Mike and I had a bunch of friends over for a special event:
 
 ![](/uploads/dsc-0574.jpg)
 
-One of said desserts was this mini matcha cheesecake. How cute is that???&nbsp;
+One of said desserts was this mini matcha cheesecake. How cute is that??? 
 
 ![](/uploads/dsc-0558.jpg)
 
