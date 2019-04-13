@@ -68,13 +68,21 @@ recipe:
     cheesecakes, and top with berries.
 ---
 
-So this past weekend Mike and I had a bunch of friends over for a special event: Mike did a "mini concert" of Bob Dylan covers, and I made a whole bunch of mini desserts\! We also used the event to raise money for an org we care about - the National Suicide Prevention Lifeline ([https://suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/)). It was a nice way to have a fun evening with friends and also feel good about it\! We decided to call it "Dylan and Desserts", because alliteration.
+So this past weekend Mike and I had a bunch of friends over for a special event: Mike did a "mini concert" of Bob Dylan covers, and I made a whole bunch of mini desserts\! We also used the event to raise money for an org we care about - the National Suicide Prevention Lifeline ([https://suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/)). It was a nice way to have a fun evening with friends and do a little good\! We decided to call it "Dylan and Desserts", because alliteration.
+
+![](/uploads/dsc-0574.jpg)
 
 One of said desserts was this mini matcha cheesecake. How cute is that???&nbsp;
 
-Somehow everything seems cuter when its just a little bit smaller. It's also a perk that you can eat a few of them and not feel too guilty.
+![](/uploads/dsc-0558.jpg)
 
-This recipe makes quite a few of these little ones. I also always get into quite a baking frenzy when I think there won't be enough food, and of course there was way too much, so I ended up taking a couple of boxes of assorted left over desserts to work. Rest assured, nobody was complaining.
+Somehow everything seems cuter when it's just a little bit smaller. It's also a perk that you can eat a few of them and not feel too guilty.
+
+![](/uploads/dsc-0579.jpg)
+
+This recipe makes quite a few of these little ones. I always get into a baking frenzy when I think there won't be enough food, and of course there was way too much, so I ended up taking a couple of boxes of assorted left over desserts to work. Rest assured, nobody was complaining.
+
+![](/uploads/dsc-0469.jpg)
 
 One final note: you can also make these in regular cupcake size, and I think you could pretty easily cut the recipe in half if you wanted to make less.
 
