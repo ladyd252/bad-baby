@@ -12,21 +12,13 @@ recipe:
   assembly & decoration: 30 minutes
   ingredients_markdown: |-
     * 1/2 14.4 o package/1 bag graham crackers
-
     * 3 tbsp melted butter
-
     * 16 oz softened cream cheese
-
     * 2/3 cup sugar&nbsp;
-
     * 2/3 cup ricotta
-
     * 1 tsp vanilla extract
-
     * 2 eggs
-
     * pinch of salt
-
     * 3 tbsp matcha
 
     **For decoration:**
