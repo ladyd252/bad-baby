@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Bad Baby Bakery
+title: Bad Baby Bakery by Dana Yakoobinsky
 url: "https://www.badbabybakery.com"
 baseurl:
 google_analytics_key: "UA-100972209-1"
@@ -62,11 +62,5 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
   - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
