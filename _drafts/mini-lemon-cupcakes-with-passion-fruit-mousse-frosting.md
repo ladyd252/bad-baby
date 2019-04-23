@@ -7,10 +7,10 @@ categories:
 date: 2019-04-14 00:00:00
 featured_image:
 recipe:
-  servings:
-  prep:
-  cook:
-  assembly & decoration:
+  servings: '48'
+  prep: 1 hour
+  cook: 10 minutes
+  assembly & decoration: 1 hour
   ingredients_markdown: >-
     **Cupcake**
 
