@@ -99,6 +99,6 @@ The frosting is actually based on Brazilian passion fruit mousse and it is super
 
 ![](/uploads/dsc-0594.jpg)
 
-My one note is that this frosting is not as \*hardy\* or durable as other frostings. I think they would be best within a couple of days of making, and should be kept in a cool environment lest the frosting lose its shape or \*\*scream face\*\* melts off the cupcake\!
+My one note is that this frosting is not as \*hardy\* or durable as other frostings. These would be best within a couple of days of making, and should be kept in a cool environment lest the frosting lose its shape or \*\*scream face\*\* melts off the cupcake\!
 
 Anywho, hope you enjoy this one, I did ;)&nbsp;
