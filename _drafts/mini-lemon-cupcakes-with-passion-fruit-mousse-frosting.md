@@ -4,8 +4,8 @@ categories:
   - Cupcakes
   - Lemon
   - Passion Fruit
-date: 2019-04-14 00:00:00
-featured_image:
+date: 2019-05-01 00:00:00
+featured_image: /uploads/dsc-0604.jpg
 recipe:
   servings: '48'
   prep: 1 hour
@@ -89,3 +89,16 @@ recipe:
     &nbsp;
 ---
 
+Happy May\! Soooo here I go procrastinating again. I totally meant to post this a few weeks ago, but here we are.
+
+![](/uploads/dsc-0589.jpg)
+
+&nbsp;This recipe was one of the little bitty desserts I made last month for Dylan and Desserts. These little babies are frosted with delicious passion fruit mousse\! I think life is decidedly better with more passion fruit in it, and I think you would feel the same once you try these.&nbsp;
+
+The frosting is actually based on Brazilian passion fruit mousse and it is super easy to make\! You could even just serve this as a standalone dessert, in small ramekins, or mini mousse cups, and decorate as you like - fresh fruit, toasted coconut, etc. BUT\! In this recipe, I've decided to use it as a frosting, and I dare say it worked pretty well\!
+
+![](/uploads/dsc-0594.jpg)
+
+My one note is that this frosting is not as \*hardy\* or durable as other frostings. I think they would be best within a couple of days of making, and should be kept in a cool environment lest the frosting lose its shape or \*\*scream face\*\* melts off the cupcake\!
+
+Anywho, hope you enjoy this one, I did ;)&nbsp;
