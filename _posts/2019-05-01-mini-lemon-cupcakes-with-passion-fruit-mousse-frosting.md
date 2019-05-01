@@ -95,7 +95,7 @@ Happy May\! Soooo here I go procrastinating again. I totally meant to post this 
 
 &nbsp;This recipe was one of the little bitty desserts I made last month for Dylan and Desserts. These little babies are frosted with delicious passion fruit mousse\! I think life is decidedly better with more passion fruit in it, and I think you would feel the same once you try these.&nbsp;
 
-The frosting is actually based on Brazilian passion fruit mousse and it is super easy to make\! You could even just serve this as a standalone dessert, in small ramekins, or mini mousse cups, and decorate as you like - fresh fruit, toasted coconut, etc. BUT\! In this recipe, I've decided to use it as a frosting, and I dare say it worked pretty well\!
+The frosting is actually based on Brazilian passion fruit mousse and it is super easy to make\! You could even just serve this as a standalone dessert, in small ramekins, or mini mousse cups, and decorate as you like - fresh fruit, toasted coconut, etc. BUT\! In this recipe, I've decided to use it as a frosting on teeny lemon cupcakes, and I dare say it worked pretty well\! The combination of sweet and the acidity of the fruit makes these little guys stand out in a crowd.
 
 ![](/uploads/dsc-0594.jpg)
 
