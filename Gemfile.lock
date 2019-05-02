@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ladyd252/jekyll-feed.git
-  revision: c2063ed42f2bd97626bba11ae967f19e9a872cbb
+  revision: 9c82640cf187545b082331825b789a649613f5d6
   specs:
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
