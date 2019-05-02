@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.7'
+gem 'jekyll', '>= 3.7.4'
 
 gem 'jekyll-feed', :git => 'https://github.com/ladyd252/jekyll-feed.git'
 
