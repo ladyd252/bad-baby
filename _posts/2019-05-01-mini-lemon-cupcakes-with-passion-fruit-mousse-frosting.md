@@ -5,7 +5,7 @@ categories:
   - Lemon
   - Passion Fruit
 date: 2019-05-01 00:00:00
-featured_image: /uploads/dsc-0604.jpg
+image: /uploads/dsc-0604.jpg
 recipe:
   servings: '48'
   prep: 1 hour

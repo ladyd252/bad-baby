@@ -7,6 +7,7 @@ categories:
   - Coffee
 date: 2018-03-17 13:00:00
 featured_image: /uploads/dsc-0300.jpg
+image: /uploads/dsc-0300.jpg
 recipe:
   servings: 8-10
   prep: 30 minutes

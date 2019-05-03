@@ -4,6 +4,7 @@ categories:
   - pastry
 date: 2017-12-07 00:00:00
 featured_image: /uploads/dsc-0191-1.jpg
+image: /uploads/dsc-0191-1.jpg
 recipe:
   servings: 18-20 madeleines
   prep: 2.5 hours

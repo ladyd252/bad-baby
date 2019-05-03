@@ -4,7 +4,7 @@ categories:
   - Cheesecake
   - Matcha
 date: 2019-04-11 00:00:00
-featured_image: /uploads/dsc-0574-1.jpg
+image: /uploads/dsc-0574-1.jpg
 recipe:
   servings: 48 mini cupcakes
   prep: 1 hour

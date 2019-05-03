@@ -6,6 +6,7 @@ categories:
   - cherries
 date: 2017-06-07 20:41:00
 featured_image: /uploads/dsc-0148.jpg
+image: /uploads/dsc-0148.jpg
 recipe:
   servings: '9'
   prep: 45 minutes

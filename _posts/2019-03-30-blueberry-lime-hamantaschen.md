@@ -3,7 +3,7 @@ title: Blueberry Lime Hamantaschen
 categories:
   - Cookies
 date: 2019-03-30 00:00:00
-featured_image: /uploads/dsc-0328.jpg
+image: /uploads/dsc-0328.jpg
 recipe:
   servings: '24'
   prep: 1.5 hour

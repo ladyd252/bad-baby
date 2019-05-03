@@ -4,7 +4,7 @@ categories:
   - Cupcakes
   - chocolate
 date: 2019-02-16 00:00:00
-featured_image: /uploads/dsc-0161.jpg
+image: /uploads/dsc-0161.jpg
 recipe:
   servings: 36 Mini Cupcakes
   prep: 1 hour

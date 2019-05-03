@@ -6,6 +6,7 @@ categories:
   - caramel
 date: 2017-05-05 18:52:00
 featured_image: /uploads/fullsizeoutput_100 small.jpeg
+image: /uploads/fullsizeoutput_100 small.jpeg
 recipe:
   servings: Makes a 2 layer 8in cake.
   prep: 30 minutes

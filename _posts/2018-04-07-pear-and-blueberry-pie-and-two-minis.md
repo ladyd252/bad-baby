@@ -3,7 +3,7 @@ title: Pear and Blueberry Pie (and two minis!)
 categories:
   - Pie
 date: 2018-04-07 00:00:00
-featured_image: /uploads/dsc-0345-1.jpg
+image: /uploads/dsc-0345-1.jpg
 recipe:
   servings: 8-10
   prep: 1 hour

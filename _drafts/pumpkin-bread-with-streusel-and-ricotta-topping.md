@@ -2,7 +2,7 @@
 title: Streusel
 categories:
 date:
-featured_image:
+image:
 recipe:
   servings: 10-12
   prep: 1 hours

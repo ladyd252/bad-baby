@@ -7,8 +7,7 @@ categories:
   - nutella
   - citrus
 date: 2019-01-27 00:00:00
-featured_image: /uploads/dsc-0005.jpg
-image: /uploads/dsc-0030.jpg
+image: /uploads/dsc-0005.jpg
 recipe:
   servings: '2 loaves, 10-12 slices each'
   prep: 12 hours
