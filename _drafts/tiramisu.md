@@ -62,7 +62,7 @@ recipe:
     might be required.
 ---
 
-Tiramisu is my old faithful. While not too complicated, the delicious layers of boozed up coffee-ness and creamy custard are crowd pleasers. Its also the cake my mom usually requests I make for special events. A while back we went over to my parents house for Rosh Hashana, and this baby made an appearance. While not a traditional dessert for the Jewish New Year, its a traditional dessert for our family\!
+Tiramisu is my old faithful. While not too complicated, the delicious layers of boozed up coffee-ness and creamy custard are trusted crowd pleasers. Its also the cake my mom usually requests I make for special events. A little while back we went over to my parents house for Rosh Hashana, and this baby made an appearance. While not a traditional dessert for the Jewish New Year, its a traditional dessert for our family\!
 
 ![](/uploads/dsc-0016.jpg){: width="600" height="397"}
 
@@ -70,8 +70,10 @@ It might be intimidating to make the custard cream by cooking egg yolks, but rea
 
 ![](/uploads/dsc-0020.jpg){: width="600" height="397"}
 
-After that, all thats left is the whipped cream and boozy coffee dipped ladyfingers - easy peasy\! In no time, you can be sitting around a table digging into a delightful tiramisu.
+After that is the whipped cream and boozy coffee dipped ladyfingers - easy peasy\! Then one tiny last step is where my version of the cake differs slightly from the classic. Instead of a dusting of cocoa, I grate dark chocolate over the cake to give it a touch more sweetness and richness.&nbsp;
 
 ![](/uploads/dsc-0042.jpg){: width="600" height="397"}
 
-So I hope you enjoy this recipe, and let me know what you think\!
+And thats it\! In no time, you can be sitting around a table digging into a delightful tiramisu.
+
+I hope you enjoy this recipe as much as my family does, and let me know what you think\!
