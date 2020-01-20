@@ -11,7 +11,7 @@ layout: default
 		{{ content }}
 	</div>
 	
-	{% if page.recipe.ingredients_markdown.size != 0 %}
+	{% if page.recipe.ingredients_markdown.size > 0 %}
 
     	<ul id="recipe" class="recipe-overview">
     		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
