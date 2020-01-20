@@ -1,8 +1,8 @@
 ---
-title:
+title: Alamo Square Pop Ups!
 categories:
 date: 2020-01-20 19:49:00
-image:
+image: /uploads/img-20200112-101431-1.jpg
 recipe:
   servings:
   prep:
@@ -16,7 +16,7 @@ Happy New Year\! Hope you all had a lovely time during the December holidays and
 
 On my end, the past couple of months have had some exciting baking news\! Back in November and just a week ago, I did a couple of weekend pop ups with [Lady Falcon Coffee Club](https://www.ladyfalconcoffeeclub.com/){: target="_blank"}. If you haven’t heard of it, [LFCC is an awesome woman owned coffee roaster based in the bay area](https://sf.eater.com/2017/8/11/16128402/lady-falcon-coffee-club-truck-san-francisco){: target="_blank"}. Their lovely coffee truck is usually located out of Alamo Square, and for a weekend in November and last Sunday, I set up a table with some sweet treats for people to grab and enjoy with their coffee.&nbsp;
 
-![](/uploads/img-20200112-101431.jpg){: width="3719" height="3024"}
+&nbsp;
 
 As both times I spent most of the days leading up to the pop ups busy baking, I didn’t really think much about taking nice photos. Fortunately, this last Sunday my awesome friend [Kanaga](https://www.instagram.com/happybubbles005/){: target="_blank"}, an avid baker and photographer herself, brought her camera and grabbed some shots of the table.
 
