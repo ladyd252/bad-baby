@@ -11,7 +11,7 @@ layout: default
 		{{ content }}
 	</div>
 	
-	{% if page.recipe.ingredients_markdown != '' %}
+	{% if page.recipe.ingredients_markdown | markdownify != '' %}
 	{{ page.recipe.ingredients_markdown }}
 
     	<ul id="recipe" class="recipe-overview">
