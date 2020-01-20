@@ -1,7 +1,7 @@
 ---
 title:
 categories:
-date:
+date: 2020-01-20 19:49:04
 image:
 recipe:
   servings:
