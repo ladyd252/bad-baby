@@ -10,14 +10,15 @@ layout: default
 	<div class="recipe-body">
 		{{ content }}
 	</div>
+	
+	{% if page.recipe.ingredients_markdown.size != 0 %}
 
-	<ul id="recipe" class="recipe-overview">
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
-	</ul>
+    	<ul id="recipe" class="recipe-overview">
+    		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+    		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+    		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+    	</ul>
 
-    {% if page.recipe.ingredients_markdown.size != 0 %}
     	<div class="recipe-contents">
     		<div class="ingredients">
     			<h2>Ingredients</h2>
