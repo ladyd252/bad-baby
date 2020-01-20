@@ -20,15 +20,11 @@ On my end, the past couple of months have had some exciting baking news\! Back i
 
 As both times I spent most of the days leading up to the pop ups busy baking, I didn’t really think much about taking nice photos. Fortunately, this last Sunday my friend [Kanaga](https://www.instagram.com/happybubbles005/){: target="_blank"}, an avid baker and photographer herself, brought her camera and grabbed some shots of the table.
 
-&nbsp;
-
 The first weekend, I had two varieties of babka - chocolate hazelnut and pumpkin spice, spiced apple donuts, blueberry olive oil muffins and a few other options. Pumpkin Spice was a hit, as expected in November\! I used white chocolate, pumpkin puree and a mix of spices to make an aromatic and delicious fall inspired filling. Maybe I’ll post a recipe in time for next fall\!
 
 ![](/uploads/img-20191116-101556.jpg){: width="4032" height="3024"}
 
-![](/uploads/img-20191116-101558.jpg){: width="3349" height="2210"}
-
-This last pop up, I had 3 types of babka: Nutella, butter spice, and PB & J (blueberries). I also had a gluten free almond and pear tart, and those blueberry olive oil muffins made a comeback.
+![](/uploads/img-20191116-101558.jpg){: width="3349" height="2210"}This last pop up, I had 3 types of babka: Nutella, butter spice, and PB & J (blueberries). I also had a gluten free almond and pear tart, and those blueberry olive oil muffins made a comeback.
 
 ![](/uploads/img-3422.jpg){: width="5184" height="3456"}
 
