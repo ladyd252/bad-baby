@@ -17,17 +17,19 @@ layout: default
 		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
 	</ul>
 
-	<div class="recipe-contents">
-		<div class="ingredients">
-			<h2>Ingredients</h2>
-			{{ page.recipe.ingredients_markdown | markdownify }}
-		</div>
-
-		<div class="directions">
-			<h2>Directions</h2>
-			{{ page.recipe.directions_markdown | markdownify }}
-		</div>
-	</div>
+    {% if page.recipe.ingredients_markdown %}
+    	<div class="recipe-contents">
+    		<div class="ingredients">
+    			<h2>Ingredients</h2>
+    			{{ page.recipe.ingredients_markdown | markdownify }}
+    		</div>
+    
+    		<div class="directions">
+    			<h2>Directions</h2>
+    			{{ page.recipe.directions_markdown | markdownify }}
+    		</div>
+    	</div>
+	{% endif %}
 
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
