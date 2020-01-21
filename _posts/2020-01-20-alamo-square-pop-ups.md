@@ -18,7 +18,7 @@ On my end, the past couple of months have had some exciting baking news\! Back i
 
 ![](/uploads/img-20191116-101550.jpg){: width="4032" height="3024"}
 
-As both times I spent most of the days leading up to the pop ups busy baking, I didn’t really think much about taking nice photos. Fortunately, this last Sunday my friend [Kanaga](https://www.instagram.com/happybubbles005/){: target="_blank"}, an avid baker and photographer herself, brought her camera and grabbed some shots of the table.
+As both times I spent most of the days leading up to the pop ups busy baking, I didn’t really think much about taking nice photos. Fortunately, this last Sunday my friend [Kanaga](https://www.instagram.com/kanagaanr){: target="_blank"}, an avid baker and photographer herself, brought her camera and grabbed some shots of the table.
 
 The first weekend, I had two varieties of babka - chocolate hazelnut and pumpkin spice, spiced apple donuts, blueberry olive oil muffins and a few other options. Pumpkin Spice was a hit, as expected in November\! I used white chocolate, pumpkin puree and a mix of spices to make an aromatic and delicious fall inspired filling. Maybe I’ll post a recipe in time for next fall\!
 
