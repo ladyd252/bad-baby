@@ -1,6 +1,7 @@
 ---
 title: Pesto and Mozzarella Stuffed Challah
 categories:
+  - Challah
 date: 2020-05-05 00:00:00
 image: /uploads/dsc-0439.jpg
 recipe:
@@ -97,7 +98,7 @@ It's also not a big deal if things get a little messy - a little pesto cheese pe
 
 ![](/uploads/dsc-0387.jpg){: width="1000" height="662"}
 
-Then we braid these treasure troves of flavor together...
+Then we braid these treasure troves of flavor together…
 
 ![](/uploads/dsc-0392.jpg){: width="1000" height="662"}
 
