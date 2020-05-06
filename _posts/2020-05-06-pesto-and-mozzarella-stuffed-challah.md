@@ -11,24 +11,16 @@ recipe:
   assembly & decoration:
   ingredients_markdown: |-
     * 4 cups flour
-
     * 1 tbsp yeast
-
     * 1/4 cup sugar
-
     * 1/4 cup oil, plus a little extra for oiling bowl
-
     * 1 1/4 cup water
-
     * 1/2 tbsp salt
-
     * 1 cup pesto, homemade or store bought
-
     * 8 oz mozzarella in water (or shredded)
-
     * 1 egg
 
-    **For pest**
+    **For pesto**
 
     * 1 bunch basil
     * 1 bunch cilantro (or another bunch basil)
@@ -76,7 +68,7 @@ recipe:
     14. Enjoy your creation\!
 ---
 
-Hello\! It's been a few months, and so much has changed in that time. It's been quite terrifying to see images from places like New York and Italy, hard hit with Covid-19. My heart goes out to everyone effected by this pandemic. It's hard to process something that is in so many ways out of our control. It's harder to think that this may be our new reality for a year or more. And yet, we must go on, trying to maintain a semblance of routine in a time where so many things feel scary and unfamiliar.
+Hello\! It’s been a few months, and so much has changed in that time. It’s been quite terrifying to see images from places like New York and Italy, hard hit with Covid-19. My heart goes out to everyone effected by this pandemic. It’s hard to process something that is in so many ways out of our control. It’s harder to think that this may be our new reality for a year or more. And yet, we must go on, trying to maintain a semblance of routine in a time where so many things feel scary and unfamiliar.
 
 A lot of people have been getting into bread baking as a way to stay inspired or just sane while cooped up at home, and I thought it would be a good time to share a challah recipe. Challah is probably one of the things I bake the most often, and Mike is definitely a big fan\! He especially loves this flavor combo, so I think he was pretty pleased I decided to make it for the blog.&nbsp;
 
@@ -96,7 +88,7 @@ I think the thing that makes this particular recipe irresistible is the stuffing
 
 ![](/uploads/dsc-0381.jpg){: width="1000" height="662"}
 
-It's also not a big deal if things get a little messy during this part - a little pesto cheese peekaboo isn't so bad ;)
+It’s also not a big deal if things get a little messy during this part - a little pesto cheese peekaboo isn’t so bad ;)
 
 ![](/uploads/dsc-0387.jpg){: width="1000" height="662"}
 
@@ -112,4 +104,4 @@ Then we pop it in the oven, and 30 minutes later a gorgeous challah is born.
 
 ![](/uploads/dsc-0426.jpg){: width="1000" height="662"}
 
-I hope you're all staying safe. Wishing everyone health and wellbeing.
+I hope you’re all staying safe. Wishing everyone health and wellbeing.
