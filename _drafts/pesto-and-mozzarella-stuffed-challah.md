@@ -2,7 +2,7 @@
 title: Pesto and Mozzarella Stuffed Challah
 categories:
   - Challah
-date: 2020-05-05 00:00:00
+date: 2020-05-06 00:00:00
 image: /uploads/dsc-0439.jpg
 recipe:
   servings: 8-12
@@ -76,9 +76,9 @@ recipe:
     14. Enjoy your creation\!
 ---
 
-Hello\! It's been a few months, and so much has changed in that time. It's been quite terrifying to see images from places like New York and Italy, hard hit with Covid-19. It's hard to process something that is in so many ways out of our control. It's harder to think that this may be our new reality for a year or more. And yet, we must go on, trying to maintain a semblance of routine in a time where so many things feel unfamiliar.&nbsp;
+Hello\! It's been a few months, and so much has changed in that time. It's been quite terrifying to see images from places like New York and Italy, hard hit with Covid-19. My heart goes out to everyone effected by this pandemic. It's hard to process something that is in so many ways out of our control. It's harder to think that this may be our new reality for a year or more. And yet, we must go on, trying to maintain a semblance of routine in a time where so many things feel scary and unfamiliar.
 
-A lot of people have been getting into bread baking as a way to stay inspired or just sane while cooped up at home, and I thought it would be a good time to share a challah recipe. Challah is probably one of the things I bake the most often\! Mike is definitely a big fan, and he especially loves this flavor combo, so I think he was pretty pleased I decided to make it for the blog.&nbsp;
+A lot of people have been getting into bread baking as a way to stay inspired or just sane while cooped up at home, and I thought it would be a good time to share a challah recipe. Challah is probably one of the things I bake the most often, and Mike is definitely a big fan\! He especially loves this flavor combo, so I think he was pretty pleased I decided to make it for the blog.&nbsp;
 
 You can pretty easily make this recipe vegan - just leave out the egg wash and cheese, for a vegan pesto challah.
 
@@ -110,4 +110,6 @@ Finally, an egg wash helps this loaf get some gorgeous color.
 
 Then we pop it in the oven, and 30 minutes later a gorgeous challah is born.
 
-Hope you're all staying safe and wishing everyone health and wellbeing.
+![](/uploads/dsc-0426.jpg){: width="1000" height="662"}
+
+I hope you're all staying safe. Wishing everyone health and wellbeing.
