@@ -12,7 +12,6 @@ layout: default
 	</div>
 	
 	{% if page.recipe.ingredients_markdown | markdownify != '' %}
-	{{ page.recipe.ingredients_markdown }}
 
     	<ul id="recipe" class="recipe-overview">
     		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
