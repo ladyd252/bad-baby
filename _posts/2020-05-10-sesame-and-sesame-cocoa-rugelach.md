@@ -96,7 +96,7 @@ recipe:
     11. Let pastries cool for 10-20 minutes, then enjoy\!\!
 ---
 
-Since weekends are now suddenly full of free time, I tried a new recipe today. Rugelach is an Israeli bakery shop staple - soft, chocolaty goodness.... Mmmm, carbs... Sorry, I might've just drooled a little.&nbsp;
+Since weekends are now suddenly full of free time, today was a good opportunity to try a new recipe. Rugelach is an Israeli bakery shop staple - soft, chocolaty goodness…. Mmmm, carbs… Sorry, I might've just drooled a little.&nbsp;
 
 ![](/uploads/dsc-0457.jpg){: width="1000" height="662"}
 
