@@ -113,4 +113,6 @@ On a personal level, while all this has been happening Mike and I decided to mov
 
 I love passion fruit and passion fruit desserts, and this cheesecake did not disappoint. I paired it with a chocolatey crust and some chocolate flakes on top as well which worked out nicely. If you're wondering where to find passion fruit puree, I can usually find them in the freezer section of Mexican or South American grocers. Adding the pulp of a fresh fruit in the decoration is mostly for the look - the seeds help make the cake look the part of a passion fruit cheesecake, but they are expensive and can be harder to find (I found some in Whole Foods). Feel free to leave it out, and fear not - the cake will still be delicious. In fact, you can play around with the decoration to your liking: pour ganache over it for more chocolate, replace the chocolate flakes and fruit with some toasted coconut, use different fruit to decorate, etc.
 
+Due to the move, I couldn't find my camera (luckily its been located since) after I made this cake, so only got a couple of photos on my phone. Hopefully all its passion fruit glory still shines through\!&nbsp;
+
 Hope you enjoy this cake, stay safe, and stay kind.
