@@ -3,7 +3,7 @@ title: Passion Fruit Cheesecake
 categories:
   - Cheesecake
 date: 2020-07-14 00:00:00
-image:
+image: /uploads/00100dportrait-00100-burst20200705103508207-cover-1.jpg
 recipe:
   servings: '8'
   prep: 30 minutes
@@ -107,3 +107,4 @@ recipe:
     6. Grate dark chocolate over top.
 ---
 
+I couldn't imagine our world would get any crazier last time I posted on here, and yet here we are in the midst of so much social/political unrest and (still) smack dab in the middle of a pandemic. I think the US is going through a really hard reckoning, but I hope that we can all grow through this. I hope we can all recognize that not everyone is treated equally here; that white supremacy is still a problem; that centuries of enslavement and systemic racism don't magically disappear;hat most importantly, we find a way to create a more equal place for us all to
