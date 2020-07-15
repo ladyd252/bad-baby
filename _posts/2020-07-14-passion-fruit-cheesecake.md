@@ -38,9 +38,6 @@ recipe:
     **Decoration (optional)**
 
 
-    &nbsp;
-
-
     * 1 cup puree
 
     * 1 tbsp cornstarch
