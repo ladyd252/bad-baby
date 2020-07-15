@@ -1,0 +1,109 @@
+---
+title: Passion Fruit Cheesecake
+categories:
+  - Cheesecake
+date: 2020-07-14 00:00:00
+image:
+recipe:
+  servings: '8'
+  prep: 30 minutes
+  cook: 1 hour
+  assembly & decoration: 30 minutes
+  ingredients_markdown: >-
+    **Crust**
+
+
+    * 1\.5 packages of chocolate graham crackers out of a 14.4oz box (3 packages
+    in a box, so half the box)
+
+    * 4-5 tbsp butter
+
+
+    **Filling**
+
+
+    * 2 bricks (1 pound) cream cheese, softened
+
+    * 2 cups ricotta
+
+    * 1 cup passion fruit puree
+
+    * 3 eggs
+
+    * 1 cup sugar
+
+    * Lemon zest
+
+
+    **Decoration (optional)**
+
+
+    &nbsp;
+
+
+    * 1 cup puree
+
+    * 1 tbsp cornstarch
+
+    * 1 passion fruit (for seeds)
+
+    * Sugar to taste
+
+    * Fresh berries
+
+    * whipped cream (1/2 cup heavy whipping cream, 2 tbsp sugar)
+
+    * 1-2 squares dark chocolate, for chocolate flakes
+  directions_markdown: >-
+    1. Prepare cheesecake or springform pan by spraying with nonstick spray.
+    This recipe is for 11 x 2.5 inch pan, but you can use a smaller diameter to
+    make a taller cheesecake.
+
+    2. Preheat oven to 325F.
+
+    3. Crush graham crackers using a food processor, blender, or by hand.
+
+    4. Add 4-5 tbsp butter, until cracker crumbs are a bit mushy.
+
+    5. Press evenly into bottom of pan.
+
+    6. Bake for 10 minutes.
+
+    7. Meanwhile, beat cream cheese and ricotta until smooth.
+
+    8. Add sugar and lemon zest, beat together.
+
+    9. Add passion fruit puree.
+
+    10. Finally, add eggs, one at a time, beating for 30 seconds after each
+    addition. Make sure to scrape the bottom of the bowl in between to get
+    through mixing.
+
+    11. Pour filling onto crust.
+
+    12. Bake for about an hour, until edges are set and center is still jiggly.
+
+    13. Let cheesecake cool for a couple of hours on the counter top, then
+    refrigerate for at least a few hours before serving, preferably overnight.
+
+
+    **Decoration**
+
+
+    1. Reserve a few tbsp of puree, then heat remaining puree as well as the
+    pulp and seeds of one passion fruit in a small pot. You can give it a taste
+    - if you prefer it a little sweeter, add 1-2 tbsp sugar.
+
+    2. Mix the reserved puree with a tbsp of corn starch.&nbsp;
+
+    3. When the puree in the pot starts bubbling, add the cornstarch mixture
+    while whisking the heating puree. The whole mix should thicken in less than
+    30 seconds. Remove from heat.
+
+    4. Let the glaze cool for a few minutes, then pour over cheesecake.
+
+    5. Pipe whipped cream and arrange fresh berries around cheesecake
+
+    6. Grate dark chocolate over top.
+---
+
