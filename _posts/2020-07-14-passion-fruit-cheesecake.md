@@ -73,18 +73,20 @@ recipe:
     9. Add passion fruit puree.
 
     10. Finally, add eggs, one at a time, beating for 30 seconds after each
-    addition. Make sure to scrape the bottom of the bowl in between to get
-    through mixing.
+    addition and making sure to scrape the bottom of the bowl in between
+    additions.
 
     11. Pour filling onto crust.
 
     12. Bake for about an hour, until edges are set and center is still jiggly.
+    Depending on the size of your pan this might differ slightly, so I recommend
+    checking on your cheesecake starting around 50 minutes.
 
     13. Let cheesecake cool for a couple of hours on the counter top, then
     refrigerate for at least a few hours before serving, preferably overnight.
 
 
-    **Decoration**
+    **Decoration (optional, see post for other suggestions)**
 
 
     1. Reserve a few tbsp of puree, then heat remaining puree as well as the
