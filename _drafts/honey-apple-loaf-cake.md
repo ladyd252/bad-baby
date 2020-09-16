@@ -62,7 +62,7 @@ recipe:
     2. Add cinnamon, cardamom, and ginger to pan and toast for 30 seconds.
 ---
 
-One of my favorite go to cake recipes is this [olive and summer fruit cake from Williams Sonoma.](https://blog.williams-sonoma.com/olive-oil-cake-with-summer-fruit-recipe/){: target="_blank" rel="noopener"}&nbsp;I came across this recipe a couple of years ago, and I've made it with many variations and sizes, such as little personal cakes blueberry olive oil cakes that are \*delicious\*. This cake has so much flavor, is so moist, and can be customized with whatever fruit you have on hand. You can pair it with a little whipped cream, yogurt, or mascarpone, or keep it simple with a dusting of powdered sugar… It's definitely now a staple in my toolbox. But what does that have to do with this recipe? Well, this past week I was thinking about making a dessert for Rosh Hashana, the Jewish new year, and I started thinking about making a honey apple cake - two traditional foods for the holiday. I also for some reason got in my head that I wanted to use a loaf pan for this cake - perhaps because it felt a little more casual since this year celebrations are much smaller due to social distancing.
+One of my favorite go to cake recipes is this [olive and summer fruit cake from Williams Sonoma.](https://blog.williams-sonoma.com/olive-oil-cake-with-summer-fruit-recipe/){: target="_blank" rel="noopener"}&nbsp;I came across this recipe a couple of years ago, and I've made it with many variations and sizes, such as little personal cakes blueberry olive oil cakes that are \*delicious\*. This recipe is definitely now a staple in my toolbox. But what does that have to do with this recipe? Well, this past week I was thinking about making a dessert for Rosh Hashana, the Jewish new year, and I started thinking about making a honey apple cake - two traditional foods for the holiday. I also for some reason got in my head that I wanted to use a loaf pan for this cake - perhaps because it felt a little more casual since this year celebrations are much smaller due to social distancing.
 
 ![](/uploads/dsc-0995.jpg){: width="4928" height="3264"}
 
@@ -78,7 +78,7 @@ I added in sauteed spiced apples for a Rosh Hashanah-bordering-on-fall-flavor, w
 
 ![](/uploads/dsc-1006.jpg){: width="4796" height="3075"}
 
-Finally, you can serve this with a dollop of whipped cream, yogurt, mascarpone, or a simple dusting of powdered sugar.
+This cake comes out super moist and flavorful, but not too sweet\! You can pair it with a little whipped cream, yogurt, ice cream, mascarpone, or keep it simple with a dusting of powdered sugar.
 
 ![](/uploads/dsc-1029.jpg){: width="3264" height="4458"}
 
