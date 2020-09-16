@@ -1,5 +1,5 @@
 ---
-title: Honey Apple Loaf Cake
+title: Honey Apple Olive Oil Loaf Cake
 categories:
   - cake
 date: 2020-09-16 00:00:00
@@ -66,8 +66,20 @@ One of my favorite go to cake recipes is this [olive and summer fruit cake from 
 
 ![](/uploads/dsc-0995.jpg){: width="4928" height="3264"}
 
+As I was doing research for this recipe, I thought - why not alter this olive oil cake recipe to make a delicious honey olive oil and apple cake?? So I went to work\!
+
 ![](/uploads/dsc-1002.jpg){: width="4425" height="3071"}
 
-![](/uploads/dsc-1005.jpg){: width="4175" height="2999"}![](/uploads/dsc-1006.jpg){: width="4796" height="3075"}
+I did a bit of research, and [this article from the kitchn](https://www.thekitchn.com/4-rules-for-successfully-swapping-honey-for-sugar-in-any-baked-goods-230156)&nbsp;proved helpful\! I used the suggestions to decrease the volume of sweetener and liquid and add in a bit of baking soda to counter the acidity of the honey.
+
+![](/uploads/dsc-1005.jpg){: width="4175" height="2999"}
+
+I added in sauteed spiced apples for a Rosh Hashanah-bordering-on-fall-flavor, which added a nice change up of texture and flavor throughout the cake. I was pretty conservative with my spices but you can certainly play them up, change them up, or leave them out if thats not your style.
+
+![](/uploads/dsc-1006.jpg){: width="4796" height="3075"}
+
+Finally, you can serve this with a dollop of whipped cream, yogurt, mascarpone, or a simple dusting of powdered sugar.
 
 ![](/uploads/dsc-1029.jpg){: width="3264" height="4458"}
+
+**Enjoy\!\!**
