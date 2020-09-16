@@ -38,7 +38,7 @@ recipe:
     **For apples:**
 
 
-    * 4 Granny Smith apples
+    * 4 Granny Smith apples, peeled and cubed
 
     * 1\.5 tsp cinnamon&nbsp;
 
@@ -50,11 +50,16 @@ recipe:
 
     * 3 tbsp honey
 
-    * 1-2 Tbsp olive oil
+    * 1-2 Tbsp olive oil or butter
 
     * Pinch salt
 
     * 1/4 cup flour
-  directions_markdown:
+  directions_markdown: |-
+    **To prepare apples:**
+
+    1. Heat oil or butter in saute pan over medium heat.
+    2. Add cinnamon, cardamom, and ginger to pan and toast for 30 seconds.
 ---
 
+One of my favorite go to cake recipes is this [olive and summer fruit cake from Williams Sonoma.](https://blog.williams-sonoma.com/olive-oil-cake-with-summer-fruit-recipe/){: target="_blank" rel="noopener"}&nbsp;I came across this recipe a couple of years ago, and I've made it with many variations and sizes, such as little personal cakes blueberry olive oil cakes that are \*delicious\*. This cake has so much flavor, is so moist, and can be customized with whatever fruit you have on hand. You can pair it with a little whipped cream, yogurt, or mascarpone, or keep it simple with a dusting of powdered sugar... It's definitely now a staple in my toolbox. But what does that have to do with this recipe?
