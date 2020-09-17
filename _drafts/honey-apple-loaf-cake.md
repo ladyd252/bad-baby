@@ -82,4 +82,4 @@ This cake comes out super moist and flavorful, but not too sweet\! You can pair 
 
 ![](/uploads/dsc-1029.jpg){: width="3264" height="4458"}
 
-**Enjoy\!\!**
+**This recipe makes 2 loafs so you could share the sweetness with a friend or neighbor. Finally, Shana Tova and have a sweet new year to those who celebrate\! :)**
