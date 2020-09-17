@@ -115,8 +115,8 @@ I added in sauteed spiced apples for a Rosh Hashanah-bordering-on-fall-flavor, w
 
 ![](/uploads/dsc-1006.jpg){: width="4796" height="3075"}
 
-This cake comes out super moist and flavorful, but not too sweet\! I think its best enjoyed the next day. You can pair it with a little whipped cream, yogurt, ice cream, mascarpone, or keep it simple with a dusting of powdered sugar.
+This cake comes out super moist and flavorful, but not too sweet\! I think it's best enjoyed the next day. You can pair it with a little whipped cream, yogurt, ice cream, mascarpone, or keep it simple with a dusting of powdered sugar.
 
 ![](/uploads/dsc-1029.jpg){: width="3264" height="4458"}
 
-**This recipe makes 2 loafs so you could share the sweetness with a friend or neighbor. Finally, Shana Tova and have a sweet new year to those who celebrate\! :)**
+This recipe makes 2 loafs so you could share the sweetness with a friend or neighbor. **Finally, Shana Tova and have a sweet new year to those who celebrate\! :)**
