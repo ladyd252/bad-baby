@@ -12,7 +12,15 @@ recipe:
   ingredients_markdown: |-
     **Batter**
 
-    &nbsp;
+    * 1 3/4 cup all purpose flour
+    * 1 tsp baking powder
+    * 1 tsp kosher salt
+    * 2/3 cup butter
+    * 1 3/4 cup granulated sugar
+    * 4 eggs
+    * 2/3 cup canola oil
+    * 2/3 cup buttermilk
+    * 1 tbsp vanilla
 
     **Custard**
 
