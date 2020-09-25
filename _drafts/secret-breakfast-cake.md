@@ -146,3 +146,5 @@ This recipe quite a few components but the nice thing is that most of them are p
 &nbsp;While making a custard filling might sound a little off putting, its honestly way easier than you think and absolutely delicious. You'll want to put it in everything, or maybe you'll decide it's time to make some [tiramisu](https://www.badbabybakery.com/tiramisu/). I also like the idea of custard in this cake because its a bit of a nod to making ice cream, too\!
 
 The last thing I really like about this cake is that you don't have to frost it perfectly since most of it (or all of it, depending on how you decorate the cake) will be covered with corn flakes\! This is great when you don't want to spend a lot of time getting frosting perfectly smooth.
+
+Ok I lied, one last thing that's great about this cake is the BOOZE\! I feel like we all need a little pick me up these days, and a boozy dessert fits the bill just right. Hope you enjoy this recipe, stay healthy, and stay kind.
