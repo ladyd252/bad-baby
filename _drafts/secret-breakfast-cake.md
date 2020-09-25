@@ -22,7 +22,7 @@ recipe:
     * 2/3 cup buttermilk
     * 1 tbsp vanilla
 
-    **Custard**
+    **Custard filling**
 
     * 1/3 cup cream
     * 1/3 cup sugar
@@ -39,6 +39,10 @@ recipe:
 
     * 3 cups heavy w/c
     * Vanilla instant pudding
+
+    **For assembly**
+
+    * 1/4 - 1/3 cup bourbon, to taste
   directions_markdown: >-
     **For cake**
 
@@ -70,6 +74,23 @@ recipe:
     decorating the next day.
 
 
+    **For candied cereal**
+
+
+    1. Preheat oven to 350F and cover a large sheet pan with parchment
+    paper.&nbsp;
+
+    2. In a large bowl stir together cornflakes, egg whites, and sugar
+
+    3. Pour mixture over sheet pan and lightly smooth to an even layer.
+
+    4. Bake for 20 minutes, in the middle agitating and turning the mix around
+    with a large spatula.
+
+    5. Let the mixture cool down completely to crisp up. If there are large
+    clumps, crush lightly with hands to break up.
+
+
     **For filling**
 
 
@@ -85,6 +106,19 @@ recipe:
     refrigerator for at least an hour.
 
     5. After the mixture has chilled, whisk in mascarpone until smooth.
+
+
+    **Vanilla frosting**
+
+
+    * Combine cream and instant pudding powder in mixer bowl. Whip until the
+    cream forms stiff peaks.
+
+
+    **Assembly**
+
+
+    1. Brush cake la
 
 
     &nbsp;
