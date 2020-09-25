@@ -118,7 +118,15 @@ recipe:
     **Assembly**
 
 
-    1. Brush cake la
+    1. Brush cake layers with rum - you can adjust the amount to your liking\!
+
+    2. Place one layer on cake circle or large plate. Pipe or use a spatula to
+    smooth custard filling over the first layer. Then place second layer on top,
+
+    3. Frost layers with vanilla frosting.
+
+    4. Cover sides with candied cornflakes. For the top, you can also cover with
+    cornflakes, or decorate with swirls of frosting.
 
 
     &nbsp;
