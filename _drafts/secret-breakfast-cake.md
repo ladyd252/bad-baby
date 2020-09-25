@@ -3,7 +3,7 @@ title: Secret Breakfast Cake
 categories:
   - cake
 date: 2020-09-25 00:00:00
-image:
+image: /uploads/dsc-0091.jpg
 recipe:
   servings: '20'
   prep: 1 hour
@@ -141,14 +141,32 @@ If you're from the Bay Area, chances are you've heard of and hopefully tried [Hu
 
 This past weekend a group of my friends gathered to celebrate one of our friend's birthday with a socially distanced picnic, and I thought it was a great opportunity to try out this cake recipe idea. I think it worked out nicely as an "adult" birthday cake flavor.
 
+![](/uploads/dsc-0034.jpg){: width="4724" height="3264"}
+
 The base of this cake is a vanilla cake adapted from "Weeknight Baking", a fantastic book by Michelle Lopez of [Hummingbird High](https://www.hummingbirdhigh.com/){: target="_blank" rel="noopener"}. The book has a lot of great recipes, and I've also found the sections around general tips and advice around how to plan baking during the week super helpful. I usually count a recipe book a success if I get just one good idea from it, and I find myself coming back to this one quite a bit these days. This vanilla cake in itself has both nice flavor from the butter and punch of buttermilk, and moisture thanks to the oil. I've chosen to make it with all purpose flour instead of cake flour (and used Michelle's tip to convert the amounts\!) and decrease the sugar a bit from the original recipe. I think this is a vanilla cake recipe I'll be coming back to\!
+
+![](/uploads/dsc-0035.jpg){: width="4635" height="3070"}
 
 Of course the glaze of [Jim Beam Bourbon](https://www.jimbeam.com/bourbons/jim-beam/)&nbsp;kicks this cake up a notch, adding moisture and of course that boozy goodness which makes it a "Secret" breakfast flavor :)&nbsp;
 
-This recipe quite a few components but the nice thing is that most of them are pretty easy to make\! The frosting in itself is one of the easiest frostings you'll find, and the nice thing is that you could use this frosting recipe with any instant pudding flavor you like for other cakes or cupcakes - for example you can use pistachio pudding for an easy pistachio frosting. The candied cornflakes are also really easy. The yolks left over from the cornflakes later get used for the custard filling, so you're not left searching for recipes to use the extra egg parts or throwing anything away, which I always hate to do\!
+![](/uploads/dsc-0054.jpg){: width="4654" height="3020"}
 
 &nbsp;While making a custard filling might sound a little off putting, its honestly way easier than you think and absolutely delicious. You'll want to put it in everything, or maybe you'll decide it's time to make some [tiramisu](https://www.badbabybakery.com/tiramisu/). I also like the idea of custard in this cake because its a bit of a nod to making ice cream, too\!
 
+![](/uploads/dsc-0058.jpg){: width="4693" height="3108"}
+
+This recipe has quite a few components but the nice thing is that most of them are pretty easy to make\! The frosting in itself is one of the easiest frostings you'll find, and the nice thing is that you could use this frosting recipe with any instant pudding flavor you like for other cakes or cupcakes - for example you can use pistachio pudding for an easy pistachio frosting.
+
+![](/uploads/dsc-0081.jpg){: width="4928" height="3264"}
+
+The candied cornflakes are also really easy. The yolks left over from the cornflakes later get used for the custard filling, so you're not left searching for recipes to use the extra egg parts or throwing anything away, which I always hate to do\!
+
+![](/uploads/dsc-0115.jpg){: width="4573" height="3264"}
+
+&nbsp;
+
 The last thing I really like about this cake is that you don't have to frost it perfectly since most of it (or all of it, depending on how you decorate the cake) will be covered with corn flakes\! This is great when you don't want to spend a lot of time getting frosting perfectly smooth.
+
+![](/uploads/dsc-0113.jpg){: width="2912" height="4048"}
 
 Ok I lied, one last thing that's great about this cake is the BOOZE\! I feel like we all need a little pick me up these days, and a boozy dessert fits the bill just right. Hope you enjoy this recipe, stay healthy, and stay kind.
