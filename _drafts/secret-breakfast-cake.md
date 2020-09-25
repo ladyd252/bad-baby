@@ -22,18 +22,18 @@ recipe:
     * 2/3 cup buttermilk
     * 1 tbsp vanilla
 
+    **Candied cereal**
+
+    * 4 cups cereal
+    * 3 egg whites
+    * 1/2 cup sugar&nbsp;
+
     **Custard filling**
 
     * 1/3 cup cream
     * 1/3 cup sugar
     * 3 egg yolks
     * 8 oz mascarpone
-
-    **Candied cereal**
-
-    * 4 cups cereal
-    * 3 egg whites
-    * 1/2 cup sugar&nbsp;
 
     **Frosting**
 
@@ -135,8 +135,14 @@ recipe:
     &nbsp;
 ---
 
-If you're from the Bay Area, chances are you've heard of and hopefully tried [Humphrey Slocombe](https://www.humphryslocombe.com/){: target="_blank" rel="noopener"} ice cream. One of their well loved flavors is ["Secret Breakfast"](https://www.eater.com/2014/1/6/6304553/secret-breakfast-ice-cream-at-humphry-slocombe-in-san-francisco) - a delightful combination of bourbon ice cream with cornflake cookie chunks in it. A while back I was thinking about this surprising combination and thought how fun it would be to turn that flavor into a cake.
+If you're from the Bay Area, chances are you've heard of and hopefully tried [Humphrey Slocombe](https://www.humphryslocombe.com/){: target="_blank" rel="noopener"} ice cream. One of their well loved flavors is ["Secret Breakfast"](https://www.eater.com/2014/1/6/6304553/secret-breakfast-ice-cream-at-humphry-slocombe-in-san-francisco){: target="_blank" rel="noopener"} - a delightful combination of bourbon ice cream with cornflake cookie chunks in it. A while back I was thinking about this surprising combination and thought how fun it would be to turn that flavor into a cake.
 
 This past weekend a group of my friends gathered to celebrate one of our friend's birthday with a socially distanced picnic, and I thought it was a great opportunity to try out this cake recipe idea. I think it worked out nicely as an "adult" birthday cake flavor.
 
-This cake has a lot of components but the nice thing is that most of them are pretty easy to make\! While making a custard filling might sound a little off putting, its honestly way easier than you think and absolutely delicious. You'll want to put it in everything, or maybe you'll decide its time to make some tiramisu&nbsp;
+The base of this cake is a vanilla cake adapted from "Weeknight Baking", a fantastic book by Michelle Lopez of [Hummingbird High](https://www.hummingbirdhigh.com/){: target="_blank" rel="noopener"}. The book has a lot of great recipes, and I've also found the sections around general tips and advice around how to plan baking during the week super helpful. I usually count a recipe book a success if I get just one good idea from it, and I find myself consulting this one quite a bit these days. The cake in itself has both nice flavor from the butter and punch of buttermilk, and moisture thanks to the oil. I think this is a vanilla cake recipe I'll be coming back to\!
+
+This recipe quite a few components but the nice thing is that most of them are pretty easy to make\! The frosting in itself is one of the easiest frostings you'll find, and the nice thing is that you could use this frosting recipe with any instant pudding flavor you like for other cakes or cupcakes - for example you can use pistachio pudding for an easy pistachio frosting. The candied cornflakes are also really easy. The yolks left over from the cornflakes later get used for the custard filling, so you're not left searching for recipes to use the extra egg parts or throwing anything away, which I always hate to do\!
+
+&nbsp;While making a custard filling might sound a little off putting, its honestly way easier than you think and absolutely delicious. You'll want to put it in everything, or maybe you'll decide it's time to make some [tiramisu](https://www.badbabybakery.com/tiramisu/). I also like the idea of custard in this cake because its a bit of a nod to making ice cream, too\!
+
+The last thing I really like about this cake is that you don't have to frost it perfectly since most of it (or all of it, depending on how you decorate the cake) will be covered with corn flakes\! This is great when you don't want to spend a lot of time getting frosting perfectly smooth.
