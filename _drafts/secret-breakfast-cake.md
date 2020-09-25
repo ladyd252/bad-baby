@@ -135,38 +135,32 @@ recipe:
     &nbsp;
 ---
 
-If you're from the Bay Area, chances are you've heard of and hopefully tried [Humphrey Slocombe](https://www.humphryslocombe.com/){: target="_blank" rel="noopener"} ice cream. One of their well loved flavors is ["Secret Breakfast"](https://www.eater.com/2014/1/6/6304553/secret-breakfast-ice-cream-at-humphry-slocombe-in-san-francisco){: target="_blank" rel="noopener"} - a delightful combination of bourbon ice cream with cornflake cookie chunks in it. A while back I was thinking about this surprising combination and thought how fun it would be to turn that flavor into a cake.
-
-&nbsp;
-
-This past weekend a group of my friends gathered to celebrate one of our friend's birthday with a socially distanced picnic, and I thought it was a great opportunity to try out this cake recipe idea. I think it worked out nicely as an "adult" birthday cake flavor.
+If you're from the Bay Area, you've probably heard of and hopefully had the chance to try&nbsp;[Humphrey Slocombe](https://www.humphryslocombe.com/){: target="_blank" rel="noopener"} ice cream. One of their well loved flavors is ["Secret Breakfast"](https://www.eater.com/2014/1/6/6304553/secret-breakfast-ice-cream-at-humphry-slocombe-in-san-francisco){: target="_blank" rel="noopener"} - a delightful combination of bourbon ice cream with cornflake cookie chunks in it. A while back I was thinking about this surprising combination and thought how fun it would be to turn that flavor into a cake. Then, this past weekend a group of my friends gathered to celebrate one of our friend's birthday with a socially distanced picnic, and I thought it was a great opportunity to try out this cake idea. I think it worked out nicely as an "adult" birthday cake flavor\!
 
 ![](/uploads/dsc-0034.jpg){: width="4724" height="3264"}
 
-The base of this cake is a vanilla cake adapted from "Weeknight Baking", a fantastic book by Michelle Lopez of [Hummingbird High](https://www.hummingbirdhigh.com/){: target="_blank" rel="noopener"}. The book has a lot of great recipes, and I've also found the sections around general tips and advice around how to plan baking during the week super helpful. I usually count a recipe book a success if I get just one good idea from it, and I find myself coming back to this one quite a bit these days. This vanilla cake in itself has both nice flavor from the butter and punch of buttermilk, and moisture thanks to the oil. I've chosen to make it with all purpose flour instead of cake flour (and used Michelle's tip to convert the amounts\!) and decrease the sugar a bit from the original recipe. I think this is a vanilla cake recipe I'll be coming back to\!
+The base of this cake is a vanilla cake adapted from ["Weeknight Baking"](https://www.hummingbirdhigh.com/category/weeknight-baking-book){: target="_blank" rel="noopener"}, a fantastic book by Michelle Lopez of [Hummingbird High](https://www.hummingbirdhigh.com/){: target="_blank" rel="noopener"}. The book has a lot of great recipes, and I've also found the sections around general tips/advice around how to plan baking during the week super helpful. I usually count a recipe book a success if I get just one good idea from it, and I find myself coming back to this one quite a bit these days. This vanilla cake in itself has both great flavor from the butter and punch of buttermilk, as well as moisture thanks to the oil. I've chosen to make it with all purpose flour instead of cake flour since that's what I usually have on hand (and used Michelle's tip to convert the amounts\!). I also decreased the sugar a bit from the original recipe. I think this is a vanilla cake recipe I'll be coming back to\!
 
 ![](/uploads/dsc-0035.jpg){: width="4635" height="3070"}
 
-Of course the glaze of [Jim Beam Bourbon](https://www.jimbeam.com/bourbons/jim-beam/)&nbsp;kicks this cake up a notch, adding moisture and of course that boozy goodness which makes it a "Secret" breakfast flavor :)&nbsp;
+Of course the glaze of [Jim Beam Bourbon](https://www.jimbeam.com/bourbons/jim-beam/)&nbsp;kicks this cake up a notch, adding moisture and that boozy goodness which makes it a "Secret" breakfast flavor :) I went with a heavier hand while adding the bourbon, using about 1/3 cup, but you can adjust it according to your preferences - 1/4 cup or even less will still give you that bourbon flavor but just a bit more subtle. The full 1/3 cup will make the flavor pretty dominant - not for the faint of heart\!
 
 ![](/uploads/dsc-0054.jpg){: width="4654" height="3020"}
 
-&nbsp;While making a custard filling might sound a little off putting, its honestly way easier than you think and absolutely delicious. You'll want to put it in everything, or maybe you'll decide it's time to make some [tiramisu](https://www.badbabybakery.com/tiramisu/). I also like the idea of custard in this cake because its a bit of a nod to making ice cream, too\!
+&nbsp;While making a custard filling might sound a little off putting, its honestly way easier than you think and absolutely delicious. You'll want to put it in everything, or maybe you'll decide it's time to make some [tiramisu](https://www.badbabybakery.com/tiramisu/){: target="_blank" rel="noopener"}. I also like the idea of custard in this cake because its a bit of a nod to making ice cream, too\!
 
 ![](/uploads/dsc-0058.jpg){: width="4693" height="3108"}
 
-This recipe has quite a few components but the nice thing is that most of them are pretty easy to make\! The frosting in itself is one of the easiest frostings you'll find, and the nice thing is that you could use this frosting recipe with any instant pudding flavor you like for other cakes or cupcakes - for example you can use pistachio pudding for an easy pistachio frosting.
+This recipe has quite a few components but the nice thing is that most of them are pretty easy to make\! The frosting in itself is one of the easiest frostings you'll find, and you could use this frosting recipe with any instant pudding flavor you like for other cakes or cupcakes. For example, you can use pistachio pudding for an easy pistachio frosting. Also, you don't have to frost this cake perfectly smooth since most of it (or all of it, depending on how you decorate the cake) will be covered with candied corn flakes\! This is great when you don't want to spend a lot of time getting frosting perfectly smooth.
 
 ![](/uploads/dsc-0081.jpg){: width="4928" height="3264"}
 
-The candied cornflakes are also really easy. The yolks left over from the cornflakes later get used for the custard filling, so you're not left searching for recipes to use the extra egg parts or throwing anything away, which I always hate to do\!
+The candied cornflakes are also really easy to make. The yolks left over from the cornflakes get used for the custard filling, so you're not left searching for recipes to use the extra egg parts or throwing anything away, which I always hate to do\!
 
 ![](/uploads/dsc-0115.jpg){: width="4573" height="3264"}
 
-&nbsp;
-
-The last thing I really like about this cake is that you don't have to frost it perfectly since most of it (or all of it, depending on how you decorate the cake) will be covered with corn flakes\! This is great when you don't want to spend a lot of time getting frosting perfectly smooth.
+I chose to cover just the sides with cornflakes and do some frosting swirls on top. I also added a birthday message in chocolate in the middle. If you wanted to keep it simple, you could easily cover the top with candied cornflakes as well - I had plenty left over from the 4 cups I made.
 
 ![](/uploads/dsc-0113.jpg){: width="2912" height="4048"}
 
-Ok I lied, one last thing that's great about this cake is the BOOZE\! I feel like we all need a little pick me up these days, and a boozy dessert fits the bill just right. Hope you enjoy this recipe, stay healthy, and stay kind.
+This was a fun cake to make and eat\! I feel like we all need a little pick me up these days, and a boozy dessert fits the bill just right. Hope you enjoy this recipe, stay healthy, and stay kind\!
