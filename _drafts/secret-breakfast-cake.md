@@ -61,6 +61,34 @@ recipe:
     6. Pour half the batter into each pan and bake for 30-35 minutes, until a
     skewer comes out mostly clean/with a few crumbs.
 
+    7. Let the cake cool for 15-20 minutes in pans, then take out of pans to
+    continue cooling until cooled completely.
+
+    8. At this point, you can wrap the cake in plastic wrap and aluminum foil or
+    place in a large freezer safe ziploc bag. You can freeze the cake until
+    you're ready to fill and decorate, or just refrigerate if you'll be
+    decorating the next day.
+
+
+    **For filling**
+
+
+    1. Whisk cream, sugar, and egg yolks together in a sauce pan.
+
+    2. Heat over medium high heat on stove, whisking very often. Make sure to
+    get the bottom to avoid cooking egg.
+
+    3. Heat until mixture begins bubbling, then continue whisking and cooking
+    for an additional minute.&nbsp;
+
+    4. Take off heat and let the mixture cool to room temperature, then chill in
+    refrigerator for at least an hour.
+
+    5. After the mixture has chilled, whisk in mascarpone until smooth.
+
+
+    &nbsp;
+
 
     &nbsp;
 ---
