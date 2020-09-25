@@ -135,3 +135,8 @@ recipe:
     &nbsp;
 ---
 
+If you're from the Bay Area, chances are you've heard of and hopefully tried [Humphrey Slocombe](https://www.humphryslocombe.com/){: target="_blank" rel="noopener"} ice cream. One of their well loved flavors is ["Secret Breakfast"](https://www.eater.com/2014/1/6/6304553/secret-breakfast-ice-cream-at-humphry-slocombe-in-san-francisco) - a delightful combination of bourbon ice cream with cornflake cookie chunks in it. A while back I was thinking about this surprising combination and thought how fun it would be to turn that flavor into a cake.
+
+This past weekend a group of my friends gathered to celebrate one of our friend's birthday with a socially distanced picnic, and I thought it was a great opportunity to try out this cake recipe idea. I think it worked out nicely as an "adult" birthday cake flavor.
+
+This cake has a lot of components but the nice thing is that most of them are pretty easy to make\! While making a custard filling might sound a little off putting, its honestly way easier than you think and absolutely delicious. You'll want to put it in everything, or maybe you'll decide its time to make some tiramisu&nbsp;
