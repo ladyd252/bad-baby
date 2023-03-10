@@ -1,9 +1,9 @@
 ---
-title: Dairy free cookies n' cream cupcakes + printable toppers\
+title: Dairy free cookies n' cream cupcakes + printable toppers
 categories:
   - Cupcakes
 date: 2023-03-10 00:00:00
-image: /uploads/pxl-20230308-231637337-portrait.jpg
+image: /uploads/my-project-2-2.jpg
 recipe:
   servings: 25 Cupcakes
   prep: 1 hour
@@ -108,21 +108,21 @@ recipe:
 ---
 Hello hello! I'm back after a terribly long hiatus. While I didn't completely stop baking, things did take a bit of a back seat when I got pregnant and had my first child, baby Zoey! Baby Zoey is now actually a full fledged toddler, a few months away from 2 years old (!!) and my life is somewhere in the zone of having enough time to think about blogging again. I haven't had as much time to photograph and style my baking as of late, but I thought progress is better than perfection, so why not just get started :)&nbsp;
 
-![](/uploads/pxl-20230308-231753454.jpg){: width="3072" height="4080"}
+![](/uploads/my-project-1.jpg){: width="500" height="664"}
 
 A little bit before the pandemic started, I started volunteering for an awesome organization called [Cake 4 Kids](https://www.cake4kids.org/){: target="_blank" rel="noopener"}. They, with the help of countless volunteers in multiple cities, deliver free custom homemade birthday cakes to at-risk and underserved youth across the country. It might be a small thing, but I'd like to think a home baked cake or treat on a special day can bring a little extra joy to a child. It's also a great opportunity to bake with a purpose, and today I'm sharing the last treat I baked for Cake 4 Kids - dairy free cookies n' cream cupcakes!
 
-![](/uploads/pxl-20230308-231827324.jpg){: width="4080" height="3072"}
+![](/uploads/my-project.jpg){: width="600" height="500"}
 
 Overall this was a fairly simple bake, but it was my first time making Swiss meringue buttercream with vegan butter. I'm delighted to report it worked very well. I was a bit worried at first because it seemed a bit softer than frosting made with butter, but it set well and held its shape after being piped.
-
-![](/uploads/pxl-20230308-231637337-portrait-1.jpg){: width="3072" height="4080"}
 
 These cupcakes came out very delicious - not overly sweet, and good flavor. I will say chocolate cake or cupcakes made with real chocolate in the batter can have a stronger, more chocolatey flavor, but this particular batter made beautifully rounded cupcakes with perfect texture. The flavor also balanced the sweeter Oreo frosting nicely.&nbsp;
 
 ![Printable cupcake topper flags that say &quot;Celebrate!&quot;](/uploads/flagsmini.jpg "Celebrate! cupcake toppers"){: width="400" height="400"}
 
 These are decorated simply - I halved Oreo cookies, piped a little frosting along the edge, and rolled them in sprinkles. I used primary colors as this was for a younger child and there was no theme, so I thought colorful and cheery would do the trick. I also made some simple printable flags to go on top - if you like them, you can print or download them [here](https://www.badbabybakery.com/CelebrateFlags.pdf){: target="_blank" rel="noopener"}.
+
+![](/uploads/my-project-2.jpg){: width="600" height="797"}
 
 Please note this is for a large batch - I needed to deliver 24 cupcakes and actually got about 27 out of this recipe, but you can easily half the recipe for about 12 cupcakes. I also made the regular amount of SMB frosting I usually make for a cake which was quite a bit more than needed. Lesson learned!&nbsp;
 
