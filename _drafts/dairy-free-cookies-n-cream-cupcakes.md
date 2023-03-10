@@ -1,5 +1,5 @@
 ---
-title: Dairy free cookies n' cream cupcakes
+title: Dairy free cookies n' cream cupcakes + printable toppers\
 categories:
   - Cupcakes
 date: 2023-03-10 00:00:00
@@ -120,7 +120,9 @@ Overall this was a fairly simple bake, but it was my first time making Swiss mer
 
 These cupcakes came out very delicious - not overly sweet, and good flavor. I will say chocolate cake or cupcakes made with real chocolate in the batter can have a stronger, more chocolatey flavor, but this particular batter made beautifully rounded cupcakes with perfect texture. The flavor also balanced the sweeter Oreo frosting nicely.&nbsp;
 
-These are decorated simply - I halved Oreo cookies, piped a little frosting along the edge, and rolled them in sprinkles. I used primary colors as this was for a younger child and there was no theme, so I thought colorful and cheery would do the trick.
+![Printable cupcake topper flags that say &quot;Celebrate!&quot;](/uploads/flagsmini.jpg "Celebrate! cupcake toppers"){: width="400" height="400"}
+
+These are decorated simply - I halved Oreo cookies, piped a little frosting along the edge, and rolled them in sprinkles. I used primary colors as this was for a younger child and there was no theme, so I thought colorful and cheery would do the trick. I also made some simple printable flags to go on top - if you like them, you can print or download them [here](https://www.badbabybakery.com/CelebrateFlags.pdf){: target="_blank" rel="noopener"}.
 
 Please note this is for a large batch - I needed to deliver 24 cupcakes and actually got about 27 out of this recipe, but you can easily half the recipe for about 12 cupcakes. I also made the regular amount of SMB frosting I usually make for a cake which was quite a bit more than needed. Lesson learned!&nbsp;
 
